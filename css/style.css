@@ -1,0 +1,38 @@
+/* Global font */
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: #f8f8f8;
+}
+
+/* Navbar spacing cleanup */
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+/* Page heading */
+h1 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-weight: bold;
+}
+
+/* Menu section styling */
+.menu-section {
+  background-color: #ffffff;
+  padding: 30px;
+  margin: 20px 0 40px 0;
+  border: 1px solid #ddd;
+}
+
+/* Section title */
+.menu-section h3 {
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+/* Paragraph readability */
+.menu-section p {
+  line-height: 1.8;
+  font-size: 16px;
+}
